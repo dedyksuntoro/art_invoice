@@ -17,9 +17,9 @@
                                 <div class="text-center">
                                     <img src="{{ asset('laravel.png') }}" alt="" width="200px" height="150px">
                                 </div>
-                                <hr/>
                             </div>
                             <div class="col-md-6">
+                                <hr/>
                                 <table>
                                     <tr>
                                         <th width="30%">Pelanggan</th>
@@ -44,6 +44,7 @@
                                 </table>
                             </div>
                             <div class="col-md-6">
+                                <hr/>
                                 <table>
                                     <tr>
                                         <th width="30%">Perusahaan</th>
