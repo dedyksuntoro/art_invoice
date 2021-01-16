@@ -42,6 +42,12 @@
 
                         <!-- TAMBAHKAN CODE BERIKUT -->
                         <li class="nav-item">
+                            <a href="{{ route('invoice.create') }}" class="nav-link">Buat Invoice</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="{{ url('/customer') }}" class="nav-link">Manajemen Pelanggan</a>
+                        </li>
+                        <li class="nav-item">
                             <a href="{{ url('/product') }}" class="nav-link">Manajemen Produk</a>
                         </li>
 
